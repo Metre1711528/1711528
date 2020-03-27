@@ -1,0 +1,2 @@
+roslaunch rchomeedu_speech lm.launch dict:=/home/s/catkin_ws/src/rc-home-edu-learn-ros/rchomeedu_speech/myrobo/myrobo.dic lm:=/home/s/catkin_ws/src/rc-home-edu-learn-ros/rchomeedu_speech/myrobo/myrobo.lm
+
