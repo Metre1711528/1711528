@@ -1,0 +1,4 @@
+改动了talkback.py 接收话题/face_detection/faces 向话题take_photo发出指令 这是由take_photo_sub接收的
+在corpus中添加了take a photo
+作用是听到语音“take a photo”命令，收到人脸检测的x，y位置信息，如果比较处于照片正中则拍照，否则给出一些请求等。
+目前还有一些小问题，比如循环拍照、位置信息延迟等有待完善。
