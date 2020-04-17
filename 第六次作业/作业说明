@@ -1,0 +1,2 @@
+主要改动：talkback.py接受“go to ...”语音时，将Point型对应位置数据发布到话题“/mygoal”。
+navigation.py接收该话题，将这个位置定为目标位置。
